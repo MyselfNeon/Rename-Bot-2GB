@@ -83,20 +83,11 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 
-### ❤️ RESPECTING ❤️
-- [JishuDeveloper](https://github.com/JishuDeveloper)
-- [Madflix Official](https://github.com/jishusinha) 
-- [lntechnical](https://github.com/lntechnical2)
+### ❤️ Respecting ❤️
+- [Developer](https://github.com/MyselfNeon)
 
-### 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
-- [Jishu Botz](https://t.me/JishuBotz)
+### 😍 Telegram Channel 😍
+- [NeonFiles🌷](https://t.me/neonfiles)
 
-### 💕 CONTACT DEVELOPER 💕
+### ❤️‍🩹 Contact Telegram
 - [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
-
-### ☕ BUY ME A COFFEE ☕
-- [PayPal](https://paypal.me/jishudeveloper/2.50USD)
-- [PhonePe](https://graph.org/file/6822df5af3a2e80637172.jpg)
-- [UPI](https://graph.org/file/b831109be4acff5c966d2.jpg)
