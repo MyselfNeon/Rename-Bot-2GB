@@ -75,9 +75,3 @@ async def see_csuffix(client, message):
 
 
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @JishuBotz
-# Developer @JishuDeveloper
