@@ -1,7 +1,7 @@
 <img src="https://telegra.ph/file/abc9a1593a30b2d15cfce-5e42a50ce382589c42.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/itachi_rename_bot" target="/blank"> Rename Bot 2GB </a></>
+ <b><a href="https://t.me/Rename2GBbot" target="/blank"> Rename Bot 2GB </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
