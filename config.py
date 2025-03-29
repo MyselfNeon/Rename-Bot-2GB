@@ -43,8 +43,8 @@ class Txt(object):
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/NeonFiles>NeonAn❤️</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/OnionXbot>OnionXbot</a>
+├<b>🖥️ Developer</b> : <a href=https://t.me/OnionXbot>NeonAn❤️</a> 
+├<b>👨‍💻 Programer</b> : <a href=https://t.me/NeonFiles>NeonFiles🌷</a>
 ├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
@@ -55,26 +55,26 @@ class Txt(object):
     HELP_TXT = """
 🌌 <b><u>How To Set Thumbnail</u></b>
   
-➪ /start - Start The Bot And Send Any Photo To Automatically Set Thumbnail.
-➪ /del_thumb - Use This Command To Delete Your Old Thumbnail.
-➪ /view_thumb - Use This Command To View Your Current Thumbnail.
+➪ /start - <b>Start The Bot And Send Any Photo To Automatically Set Thumbnail.</b>
+➪ /del_thumb - <b>Use This Command To Delete Your Old Thumbnail.</b>
+➪ /view_thumb - <b>Use This Command To View Your Current Thumbnail.</b>
 
 📑 <b><u>How To Set Custom Caption</u></b>
 
-➪ /set_caption - Use This Command To Set A Custom Caption
-➪ /see_caption - Use This Command To View Your Custom Caption
-➪ /del_caption - Use This Command To Delete Your Custom Caption
-➪ Example - <code>/set_caption 📕 Name ➠ : {filename}
+➪ /set_caption - <b>Use This Command To Set A Custom Caption</b>
+➪ /see_caption - <b>Use This Command To View Your Custom Caption</b>
+➪ /del_caption - <b>Use This Command To Delete Your Custom Caption</b>
+➪ <b>Example</b> - <code>/set_caption 📕 <b>Name</b> ➠ : {filename}
 
-🔗 Size ➠ : {filesize} 
+<b>🔗 Size</b> ➠ : {filesize} 
 
-⏰ Duration ➠ : {duration}</code>
+<b>⏰ Duration</b> ➠ : {duration}</code>
 
 ✏️ <b><u>How To Rename A File</u></b>
 
-➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
+<b>➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].</b>         
 
-𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MadflixOfficials>Developer</a>
+𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/OnionXbot>Developer</a>
 """
 
     PROGRESS_BAR = """\n
@@ -87,19 +87,19 @@ class Txt(object):
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
-If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
+<b>If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.</b>
 
-<b>🛍 UPI ID:</b> `madflixofficial@axl`
+<b>🛍 UPI ID:</b> `NeonAn23@axl`
 """
 
 
-    SEND_METADATA = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
+    SEND_METADATA = """<b><u>🖼️ HOW TO SET CUSTOM METADATA</u></b>
 
 For Example :-
 
-<code>By :- @Madflix_Bots</code>
+<code>By :- <b>@NeonFiles🌷</b></code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @OnionXbot
 """
 
 
