@@ -15,12 +15,12 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "")
+    START_PIC   = os.environ.get("START_PIC", "https://telegra.ph/file/abc9a1593a30b2d15cfce-5e42a50ce382589c42.jpg")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '').split()]
 
     # channels logs
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "") 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1002384933640") 
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001889915480"))
 
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
@@ -29,17 +29,16 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """Hello {} 👋 
+    START_TXT = """<b>Hello {} 👋<b> 
 
-➻ This Is An Advanced And Yet Powerful Rename Bot.
+<b>This is a powerful rename bot with muti advance features -</b>
 
-➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.
+<b>• Metadata
+• Rename Files
+• Convert Videos ⇄ Files
+• Custom Thumbnail and Caption</b>
 
-➻ You Can Also Convert Video To File And File To Video.
-
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
-
-<b>Bot Is Made By :</b> @Madflix_Bots"""
+<b>Bot Is Made By :</b> <b>@NeonFiles🌷</b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
