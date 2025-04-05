@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/abc9a1593a30b2d15cfce-5e42a50ce382589c42.jpg" alt="logo" target="/blank">
+<img src="https://envs.sh/cRA.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/Rename2GBbot" target="/blank"> Rename Bot 2GB </a></>
